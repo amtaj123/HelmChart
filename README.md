@@ -1,1 +1,1 @@
-# HelmChart for AKS 3M postit Application deployments 
+# HelmChart(AKS) 3M postit Application deployments 
